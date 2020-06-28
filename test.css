@@ -1,3 +1,11 @@
-a {
-    color: red;
+.container{
+    max-width: 600px;
+    margin: auto;
+    display: flex;
+}
+.fixed{
+    width: 300px;
+}
+.flex-item{
+    flex-grow: 1;
 }
